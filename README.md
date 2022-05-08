@@ -2,7 +2,7 @@
 
 ## ᴍᴜʟᴛɪғᴜɴᴄᴛɪᴏɴ ǫᴜᴀʟɪᴛʏ ᴄᴏᴍᴘʀᴇssᴏʀ  
 
-### A Telegram Video CompressorBot  
+### CompressorBot  
 
 - it compress videos with negligible Quality change.
 - u can generate sample Compressed videos nd screenshots too.
